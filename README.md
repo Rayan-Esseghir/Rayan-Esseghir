@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Rayan-Esseghir/Rayan-Esseghir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rayan, Math student based in Algiers, Algeria 🇩🇿  
+I'm studying at a National Higher School and learning to code, with a focus on how math and programming work together.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Studying: Mathematics at a National Higher School of Mathematics, Algeria
+- 🌱 Learning: Python and Git
+- 🔨 Working on: small projects that apply math through code
+
+## Tech I'm exploring
+
+Python · R · OOP · Git
+
+*Always learning, one commit at a time.*
