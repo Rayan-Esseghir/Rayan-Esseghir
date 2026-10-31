@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a math student at NHSM in Algiers. I spend my time exploring the sweet spot between math and programming, mostly by building small projects that turn pure theory into working code.
+I'm currently an undergraduate student studying Mathematics at the National Higher School of Mathematics (NHSM) in Algiers. While my academic focus is heavily rooted in math, I spend a lot of my free time diving into programming. When I'm not studying, you can usually find me writing code, exploring Object-Oriented Programming, and building small personal projects to sharpen my technical skills.
 
 ## Tech Stack
 
