@@ -23,7 +23,7 @@ I'm currently an undergraduate student studying Mathematics at the National High
 ## Language Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rayan-Esseghir&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&v=2"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Rayan-Esseghir&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&v=1"/>
 </p>
 
 ## Featured Projects
