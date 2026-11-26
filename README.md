@@ -29,6 +29,7 @@ I'm currently an undergraduate student studying Mathematics at the National High
 ## Featured Projects
 
 - **[My-Windows11-Setup](https://github.com/Rayan-Esseghir/My-Windows11-Setup)** — My full Windows 11 rice, from YASB bar to tiny tweaks
+- **[PageOut For Notion](https://github.com/Rayan-Esseghir/PageOut-For-Notion)** — Page Exporter For Notion
 - **[Rayan-Esseghir](https://github.com/Rayan-Esseghir/Rayan-Esseghir)** — About Me
 
 ## Connect with me
